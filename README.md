@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=maneprajakta&show_icons=true&theme=radical)(https://github.com/maneprajakta/github-readme-stats)
+[![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=maneprajakta&show_icons=true&theme=radical)
