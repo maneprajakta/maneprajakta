@@ -13,7 +13,7 @@
 - 📫 How to reach me: mail at prajakta916mane1@gmail.com
 
 
-## STATS !
+## Github STATS !
 
 ![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=maneprajakta&show_icons=true&theme=radical)
 <br>
