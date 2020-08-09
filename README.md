@@ -5,23 +5,14 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<!--
-**maneprajakta/maneprajakta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+- 🔭 I’m currently working on will we sharing once done .
+- 🌱 I’m currently learning OpenCv and Data Analysis concpets and implementations.
+- 👯 I’m looking to collaborate on OpenCv projects .
+- 💬 Ask me about Learning path for Machine Learning and Data Analyst.
+- 📫 How to reach me: mail at prajakta916mane1@gmail.com
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=maneprajakta&show_icons=true&theme=radical)
 <br>
