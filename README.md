@@ -14,7 +14,7 @@
 - 📫 How to reach me: mail at prajakta916mane1@gmail.com
 
 
-##STATS !
+## STATS !
 
 ![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=maneprajakta&show_icons=true&theme=radical)
 <br>
@@ -23,6 +23,6 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=Digit_Recognition_Web_App&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
 
-##Open For Oppurtunities 
+## Open For Oppurtunities 
 
 <a href="https://www.linkedin.com/in/maneprajakta/"><img src="https://drive.google.com/file/d/1WVVxtjfJCsQJ6rqgiaX3I7ud868Ekxc4/view?usp=sharing"></a>
