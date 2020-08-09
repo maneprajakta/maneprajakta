@@ -6,7 +6,7 @@
 **maneprajakta/maneprajakta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![Alt Text](https://drive.google.com/file/d/1ck36iFq3e4JWCVDVxn8wHuA6VGoxv1Vt/view?usp=sharing)
+![Alt Text](https://github.com/maneprajakta/Data_Cleaning_With_Python/blob/master/ezgif.com-video-to-gif.gif)
 
 Here are some ideas to get you started:
 
