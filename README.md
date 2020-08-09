@@ -21,9 +21,4 @@ Here are some ideas to get you started:
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=Digit_Recognition_Web_App&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
 
-<a href="https://github.com/maneprajakta/Digit_Recognition_Web_App">
-  <img align="left" width="500" height="600" src="https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=Digit_Recognition_Web_App&show_icons=true&theme=radical">
-</a>
-<a href="https://github.com/maneprajakta/DSA">
-  <img align="left" width="500" height="600" src="https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical">
-</a>
+
