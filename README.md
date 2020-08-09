@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/maneprajakta/Data_Cleaning_With_Python/blob/master/ezgif.com-video-to-gif.gif" width="1600" height="400" />
+<img src="https://github.com/maneprajakta/Data_Cleaning_With_Python/blob/master/ezgif.com-video-to-gif.gif" width="1600" height="200" />
 
 ![Alt Text](https://github.com/maneprajakta/Data_Cleaning_With_Python/blob/master/ezgif.com-video-to-gif.gif)
 
