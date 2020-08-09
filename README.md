@@ -22,6 +22,4 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=Digit_Recognition_Web_App&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
 
-## Open For Oppurtunities 
-
- <span style="color:orange;">Word up</span>
+## Open For Oppurtunities !
