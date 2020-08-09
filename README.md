@@ -1,5 +1,9 @@
 
 
+<style>
+{
+ }
+<style>
 <img src="https://github.com/maneprajakta/Data_Cleaning_With_Python/blob/master/ezgif.com-video-to-gif.gif" width="1650" height="250" />
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -19,10 +23,10 @@
 ![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=maneprajakta&show_icons=true&theme=radical)
 <br>
 
-##Some Repos to Visit!
+## Some Repos to Visit!
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=Digit_Recognition_Web_App&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
 
 ## Open For Oppurtunities 
 
-<a href="https://www.linkedin.com/in/maneprajakta/"><img src="https://drive.google.com/file/d/1WVVxtjfJCsQJ6rqgiaX3I7ud868Ekxc4/view?usp=sharing"></a>
+ <span style="color:orange;">Word up</span>
