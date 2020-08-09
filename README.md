@@ -1,14 +1,12 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<style>
-body{
-  color:"blue";
-  }
 
-</style>
 
 <!--
 **maneprajakta/maneprajakta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![Alt Text](https://drive.google.com/file/d/1ck36iFq3e4JWCVDVxn8wHuA6VGoxv1Vt/view?usp=sharing)
 
 Here are some ideas to get you started:
 
