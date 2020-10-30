@@ -22,3 +22,4 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
 
 ## Open For Oppurtunities :purple_heart: !
+![Visitor Count](https://profile-counter.glitch.me/maneprajakta/count.svg)
