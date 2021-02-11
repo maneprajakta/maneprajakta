@@ -42,7 +42,7 @@ https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&log
  <br><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneprajakta&" alt="maneprajakta" />
 </p>
 
- ![Visitor Count](https://profile-counter.glitch.me/maneprajakta/count.svg)
+  A Muggle on Earth 💜 vistiors count :       ![Visitor Count](https://profile-counter.glitch.me/maneprajakta/count.svg)
 
 
 
