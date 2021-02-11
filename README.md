@@ -17,10 +17,10 @@ I'm Prajakta</h1>
 <a href="https://www.codechef.com/users/prajaktamane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajaktamane" height="30" width="40" /></a>  
 <a href="https://www.hackerrank.com/prajakta916mane1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prajakta916mane1" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/prajakta916mane1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="prajakta916mane1" height="30" width="40" /></a>  
-<a align="center" href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
+<a href="https://auth.geeksforgeeks.org/user/prajakta_mane/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="prajakta_mane/profile" height="30" width="40" /></a>  
 </p>  
 <h3 align="Center">Languages and Tools:</h3>  
-<p>
+<p align="center">
 <img src="
 https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
