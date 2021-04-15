@@ -5,7 +5,7 @@ I'm Prajakta</h1>
 👩‍🎓  A third year undergrade at DYPCOE Pune India .
 <br>💫 A Data Science Enthusiast.
 <br>⚒️ Currently Brushing up my skills on Data Structure and Algorithms.</p>
-
+<br>Open Soure is 💜
   
 <h3 align="center">Active On :</h3>  
 <p align="center">  
