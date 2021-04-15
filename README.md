@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
-I'm Prajakta</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img src="https://github.com/maneprajakta/maneprajakta/blob/master/banner2.gif" />
 <h3 align="center">About Me :</h3>  
  <p>
