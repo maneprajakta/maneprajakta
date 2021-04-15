@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/DLAPuUG3awDDYPaxJw/giphy.gif" width="40" height="40" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 I'm Prajakta</h1>  
 <h3 align="center">About Me :</h3>  
