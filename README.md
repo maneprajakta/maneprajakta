@@ -37,7 +37,7 @@ I'm Prajakta</h1>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 <h3 align="center">Mostly Using:</h3>
-<p align="center"> Tensorflow | Scikit-learn | Pandas </p>
+<p align="center">Tensorflow | Scikit-learn | Pandas</p>
 <p  align="center">
 <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneprajakta&" alt="maneprajakta" />
  
