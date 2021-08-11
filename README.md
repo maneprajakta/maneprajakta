@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">About Me :</h3>  
  <p>
- 👩‍🎓  A third year CSE undergrade at DYPCOE Pune India .
+ 👩‍🎓  A Final year CSE undergrade at DYPCOE Pune India .
 <br>💫 A Data Science Enthusiast 🤖.
 <br>⚒️ Currently Brushing up my skills on Data Structure and Algorithms.
 <br>⭐ 2-star coder at Codechef.
