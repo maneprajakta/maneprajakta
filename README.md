@@ -4,8 +4,8 @@
  <p>
  👩‍🎓  A Final year CSE undergrade at DYPCOE Pune India .
 <br>💫 A Data Science Enthusiast 🤖.
-<br>⚒️ Currently Brushing up my skills on Data Structure and Algorithms.
-<br>⭐ 2-star coder at Codechef.
+<br>⚒️ Currently working as BI Intern at PTC (SQL/Informatica/OAC/Qlik Sense/Data Warehousing).
+<br>⭐ Converting ideas to code at Fourdivs.
 <br>👩‍💻 Open Soure and Learning new Tech is 💜.
  </p>
   
