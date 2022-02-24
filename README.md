@@ -4,7 +4,7 @@
  <p>
  👩‍🎓  A Final year CSE undergrade at DYPCOE Pune India .
 <br>💫 A Data Science Enthusiast 🤖.
-<br>⚒️ Currently working as BI Intern at PTC (SQL/Informatica/OAC/Qlik Sense/Data Warehousing).
+<br>⚒️ Currently working as BI Intern at PTC.
 <br>⭐ Converting ideas to code at Fourdivs.
 <br>👩‍💻 Open Soure and Learning new Tech is 💜.
  </p>
