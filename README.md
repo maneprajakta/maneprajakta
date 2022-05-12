@@ -4,8 +4,7 @@
  <p>
  👩‍🎓  A Final year CSE undergrade at DYPCOE Pune India .
 <br>💫 A Data Science Enthusiast 🤖.
-<br>⚒️ Currently working as BI Intern at PTC.
-<br>⭐ Converting ideas to code at Fourdivs.
+<br>⭐ Converting ideas to code @Fourdivs.
 <br>👩‍💻 Open Soure and Learning new Tech is 💜.
  </p>
   
