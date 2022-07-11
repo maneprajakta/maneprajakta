@@ -2,7 +2,7 @@
 <h1 align="center">Hi !</h1>
 <h3 align="center">About Me :</h3>  
  <p>
- 👩‍🎓  A Final year CSE undergrade at DYPCOE Pune India .
+ 👩‍🎓  A Graduate in CSE from DYPCOE Pune India.
 <br>💫 A Data Science Enthusiast 🤖.
 <br>⭐ Converting ideas to code @Fourdivs.
 <br>👩‍💻 Open Soure and Learning new Tech is 💜.
