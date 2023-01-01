@@ -3,7 +3,6 @@
 <h3 align="center">About Me :</h3>  
  <p>
  👩‍🎓  A Graduate in CSE from DYPCOE Pune India.
-<br>💫 A Data Science Enthusiast 🤖.
 <br>⭐ Converting ideas to code @Fourdivs.
 <br>👩‍💻 Open Soure and Learning new Tech is 💜.
  </p>
